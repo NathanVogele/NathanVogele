@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NathanVogele
-- 👀 I’m interested in Front-End Development, Automation & Saving A Bunch of time.
-- 🌱 I’m currently learning Python, Dart & Flutter, React, HTML, CSS, Javascript, Node.JS
+- 👀 Developer with a background in Marketing, Business and the Automotive Industry
+- 🌱 Flutter, AppsFlyer, MERN, Python, Selenium, BS4
 - 💞️ I’m looking to collaborate on anything that would look great on a portfolio, and be a fun project to work on. 
 - 📫 How to reach me nathanvogele@icloud.com
 
